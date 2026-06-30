@@ -93,7 +93,6 @@ ndda-medical-devices-registry/
 
 ## Автор
 
-Аружан Габдуллина — регуляторный специалист, переходящий в аналитику данных. [github.com/GabdullinaAruzhan](https://github.com/GabdullinaAruzhan)
 
 Автор
 
